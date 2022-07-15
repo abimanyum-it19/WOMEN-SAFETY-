@@ -148,4 +148,4 @@ Replace myenv with the environment name or or directory path.
 
 ## Help
    
-If you are facing any difficulty, feel free to create a new issue or reach out on [Linkedin](www.linkedin.com/in/abimanyu-m-872258208)
+If you are facing any difficulty, feel free to create a new issue or reach out on [Linkedin](https://www.linkedin.com/in/abimanyu-m-872258208/)
